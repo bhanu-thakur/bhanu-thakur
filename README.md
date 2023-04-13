@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/bhanu-thakur/bhanu-thakur/cefd134eac092dfc1e86c187c5d68075feabf33c/assets/matrix.svg"
+  >
+</p>
