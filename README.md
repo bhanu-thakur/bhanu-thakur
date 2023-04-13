@@ -19,9 +19,12 @@ Here are some ideas to get you started:
   >
 </p>
 
-<h1> Hi there 👋</h1>
+<h1> Hi there 👋  </h1>  
 
-Here you can find links to my Analytics Portfolio. Clicking on the links here will take you to specific directory or file according that specific link.
+```
+Here you can find links to code files / Jupyter Notebooks / Excel Files etc.
+Clicking on the links here will take you to specific directory or file according that specific link.
+```
 
 - ### Exploratory Data Analysis:
   - [Python](https://github.com/bhanu-thakur/friendly-sniffle/tree/main/Python)
