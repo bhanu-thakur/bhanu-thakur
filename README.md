@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ```
 Below you can find direct link to my
-Analytics Projects Director and resume.
+Analytics Projects Directory and Resume.
 ```
 
 ## [Analytics Portfolio Directory](https://github.com/bhanu-thakur/friendly-sniffle/wiki#sql-server_) | [Resume]()
