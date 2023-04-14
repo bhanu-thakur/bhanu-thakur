@@ -22,11 +22,12 @@ Here are some ideas to get you started:
 # Hi there 👋
 
 ```
-Below you can find direct link to my
-Analytics Projects Directory and Resume.
+Below you can find direct link
+to my Analytics Projects Directory and Resume.
 ```
 
-## [Analytics Portfolio Directory](https://github.com/bhanu-thakur/friendly-sniffle/wiki#sql-server_) | [Resume]()
+## [[ Aalytics Portfolio Directory ]](https://github.com/bhanu-thakur/friendly-sniffle/wiki#sql-server_)
+### [[ Resume ]]()
 
 ```Javascript
 Name: Piyush Malhotra
