@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   >
 </p>
 
-<h1> Hi there 👋  </h1>  
+# Hi there 👋
 
 ```
 Here you can find links to code files / Jupyter Notebooks / Excel Files etc.
@@ -27,13 +27,18 @@ Clicking on the links here will take you to specific directory or file according
 ```
 
 
-- [Python:](https://github.com/bhanu-thakur/friendly-sniffle/tree/main/Python)
-- [SQL:](https://github.com/bhanu-thakur/friendly-sniffle/tree/main/SQL)
+- ### [SQL Server](https://github.com/bhanu-thakur/friendly-sniffle/tree/main/SQL)
   - [Retail Data Analysis](https://github.com/bhanu-thakur/friendly-sniffle/tree/main/SQL/Retail%20Data%20Analysis)
   - [Mobile Manufacturer Data Analysis](https://github.com/bhanu-thakur/friendly-sniffle/tree/main/SQL/Mobile%20Manufacturer%20Data%20Analysis)
   - [International Debt Statistics](https://github.com/bhanu-thakur/friendly-sniffle/blob/main/SQL/Analyze%20International%20Debt%20Statistics/notebook.ipynb)
 
-- [Power BI:](https://github.com/bhanu-thakur/friendly-sniffle/tree/main/Power%20BI)
-  - [sdf]
-  - [sdf]
-- [Excel:](https://github.com/bhanu-thakur/friendly-sniffle/tree/main/Excel)
+
+- ### [Python](https://github.com/bhanu-thakur/friendly-sniffle/tree/main/Python)
+
+
+- ### [Power BI:](https://github.com/bhanu-thakur/friendly-sniffle/tree/main/Power%20BI)
+  - [sdf]()
+  - [sdf]()
+
+
+- ### [MS-Excel](https://github.com/bhanu-thakur/friendly-sniffle/tree/main/Excel)
