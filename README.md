@@ -26,8 +26,8 @@ Below you can find direct link
 to my Analytics Projects Directory and Resume.
 ```
 
-## [[ Aalytics Portfolio Directory ]](https://github.com/bhanu-thakur/friendly-sniffle/wiki#sql-server_)
-### [[ Resume ]]()
+## [[ Aalytics Portfolio Directory ]](https://github.com/bhanu-thakur/friendly-sniffle/wiki#sql-server_) | [[ Resume ]]()
+### About Me
 
 ```Javascript
 Name: Piyush Malhotra
