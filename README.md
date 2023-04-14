@@ -25,4 +25,38 @@ Here are some ideas to get you started:
 Below you can find direct link to my Analytics Projects Director.
 ```
 
-## [Analytics Portfolio Directory](https://github.com/bhanu-thakur/friendly-sniffle/wiki#sql-server_)
+## [Analytics Portfolio Directory](https://github.com/bhanu-thakur/friendly-sniffle/wiki#sql-server_) | [Resume]()
+
+```Javascript
+Name: Piyush Malhotra
+Located_in: Montreal, Quebec
+Current_job: Full Stack Developer
+Education:
+  [
+    "Self-Taught Developer and Designer",
+    "Master's in Electrical and Computer Engineering",
+    "Bachelor's in Electronics and Communication",
+  ]
+Company: Soulber
+
+Fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+    "Game Development",
+    "DevOps",
+  ]
+Technical_background:
+  [
+    "DevOps Solutions Architect",
+    "Intern - Data Science & Machine Learning in Python",
+    "Intern - Internet Of Things",
+    "Intern - VLSI and FPGA Implementation",
+  ]
+  
+Currently_learning: ["Docker, Kubernetes and React Native"]
+Hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+```
+
