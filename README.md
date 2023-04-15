@@ -25,39 +25,35 @@ Here are some ideas to get you started:
 Below you can find direct link to my Analytics Projects Directory and Resume.
 ```
 
-# [[ Aalytics Portfolio Directory ]](https://github.com/bhanu-thakur/friendly-sniffle/wiki#sql-server_) | [[ Resume ]]()
-## About Me
+# [[ Aalytics Portfolio ]](https://github.com/bhanu-thakur/friendly-sniffle/wiki) | [[ Resume ]]()
+***
+### About Me
 
 ```Javascript
-Name: Piyush Malhotra
-Located_in: Montreal, Quebec
-Current_job: Full Stack Developer
-Education:
-  [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
-  ]
-Company: Soulber
+Name: Bhanu Thakur
+Located_in: New Delhi
+From: Hamirpur, Himachal Pradesh
 
-Fields_of_interests:
-  [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
-  ]
 Technical_background:
   [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Operations Intern - Gyanberry",
   ]
   
-Currently_learning: ["Docker, Kubernetes and React Native"]
-Hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+Education:
+  [
+    "Master of Business Management - Operations Management",
+    "Post Graduate Diploma in Computer Applications",
+    "Bachelor of Computer Applications"
+  ]
+ 
+Certifications:
+  [
+    "Google Advanced Analytics Professional Certificate",
+    "Google Analytics Professional Certificate",
+    "Excel for Business Specialization"
+  ]
+
+Currently_learning: ["Data Analytics Tools"]
+Hobbies: ["Gaming", "Cinema", "Guitar"]
 ```
 
