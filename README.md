@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 Below you can find direct link to my Analytics Projects Directory and Resume.
 ```
 
-# [[ Aalytics Portfolio ]](https://github.com/bhanu-thakur/friendly-sniffle/wiki) | [[ Resume ]](https://onedrive.live.com/view.aspx?resid=CEA95E92A534446E!7085&ithint=file%2cdocx&authkey=!ABdSGjDblPTTmMo)
+# [[ Aalytics Portfolio ]](https://github.com/bhanu-thakur/friendly-sniffle/wiki) | [[ Resume ]](https://1drv.ms/w/s!Am5ENKWSXqnOty0XUhow25T005jK?e=G1F6GD)
 ***
 ### About Me
 
