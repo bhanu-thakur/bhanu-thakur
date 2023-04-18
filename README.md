@@ -19,16 +19,14 @@ Here are some ideas to get you started:
   >
 </p>
 
-# Hi there 👋
-
+# Hi there!👋
 ```
 Below you can find direct link to my Analytics Projects Directory and Resume.
 ```
+# Connect on  <a href="https://www.linkedin.com/in/kakbar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="vertical-align:middle"></a> | [ Analytics Portfolio ](https://github.com/bhanu-thakur/friendly-sniffle/wiki) | [ Resume ](https://onedrive.live.com/?authkey=%21AJq%5Ft%5F5sjSjCzdc&id=CEA95E92A534446E%217167&cid=CEA95E92A534446E&parId=root&parQt=sharedby&o=OneUp)
 
-# [[ Aalytics Portfolio ]](https://github.com/bhanu-thakur/friendly-sniffle/wiki) | [[ Resume ]](https://onedrive.live.com/?authkey=%21AJq%5Ft%5F5sjSjCzdc&id=CEA95E92A534446E%217167&cid=CEA95E92A534446E&parId=root&parQt=sharedby&o=OneUp)
-***
+
 ### About Me
-
 ```Javascript
 Name: Bhanu Thakur
 Located_in: New Delhi
